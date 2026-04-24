@@ -42,6 +42,11 @@ body{
     text-decoration:none;
 }
 
+.menu ul li a:hover {
+    background-color:#4b88bb;
+    display:block;
+} 
+
 .content{
     width:90%;
     margin:auto;
